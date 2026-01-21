@@ -1,4 +1,4 @@
-local rebuild_thyme = false -- TODO: change to false
+local rebuild_thyme = false
 
 vim.api.nvim_create_autocmd(
   "PackChanged",
